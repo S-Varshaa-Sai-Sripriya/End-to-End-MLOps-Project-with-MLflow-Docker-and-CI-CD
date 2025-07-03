@@ -1,4 +1,4 @@
-# 🧪 End-to-End MLOps Project with MLflow, Docker, and CI/CD
+# 🧪 End to End MLOps Project with MLflow, Docker, and CI/CD
 
 A full-stack Machine Learning project that automates the entire ML lifecycle — from data ingestion to model deployment — using modular Python code, MLflow for experiment tracking, Docker for containerization, and GitHub Actions for CI/CD.
 
