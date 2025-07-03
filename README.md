@@ -80,3 +80,4 @@ A full-stack Machine Learning project that automates the entire ML lifecycle —
     ✅ Containerization and reproducibility via Docker
 
 > 📚 This project is a guided implementation for learning MLOps and production-ready ML workflows. It has been adapted and customized to reinforce core concepts in experiment tracking, containerization, CI/CD, and understand cloud deployment.
+> Complete code is maintained in a private repo
